@@ -1,0 +1,7 @@
+Running: xsim.dir/Xilinx_DDS_Compiler_8613DEDBA1A240988A97A4484D154CDC/xsimk_8613DEDBA1A240988A97A4484D154CDC.dll -log xsiSetupLog
+Design successfully loaded
+Design Loading Memory Usage: 386924 KB (Peak: 386924 KB)
+Design Loading CPU Usage: 69061 ms
+Simulation completed
+Simulation Memory Usage: 386924 KB (Peak: 386924 KB)
+Simulation CPU Usage: 74671 ms
